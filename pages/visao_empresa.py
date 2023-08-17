@@ -120,7 +120,7 @@ def country_maps(df1):
 # ----------------------------------------
 # Importação do dataset
 # ----------------------------------------
-df = pd.read_csv('../dataset/train.csv')
+df = pd.read_csv('dataset/train.csv')
 
 # ----------------------------------------
 # Limpeza dos dados
